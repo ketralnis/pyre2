@@ -48,6 +48,7 @@ _re2_prefixes = [
     '/usr',
     '/usr/local',
     '/opt/',
+    '/opt/local',
     ]
 
 for re2_prefix in _re2_prefixes:
